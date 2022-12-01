@@ -25,3 +25,9 @@ Numbers are randomly generated, so yours may be different.
   - HELLO 236
   - HELLO 37
 
+## Note on Access
+At the request of University of Pennsylvania instruction staff, I have encrypted and removed from public view the following projects in support of Penn's academic integrity goals.
+
+Penn-Shell; Penn-Shredder; Penn-Shake; Penn-Chord and Penn-Search
+
+Please email/message me if you are a recruiter/prospective employer and would like access to the full repositories for each project. I'll be happy to send you the decryption key. Thanks!
